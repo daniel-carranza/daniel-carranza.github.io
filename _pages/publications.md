@@ -1,9 +1,16 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. Nonexistence of colimits in naive discrete homotopy theory, with C. Kapulkin and J. Kim, Appl. Categ. Structures 31 (2023), no.5, 41, 6 pp. <a href="https://arxiv.org/abs/2306.02219">[arXiv]</a> <a href="https://link.springer.com/article/10.1007/s10485-023-09746-9">[ACS]</a>
+1. Calculus of Fractions for Quasicategories, with C. Kapulkin and Z. Lindsey, submitted, 2023. <a href="https://arxiv.org/abs/2306.02218">[arXiv]</a>
+1. Diagonal Lemma for Presheaves on Eilenberg-Zilber Categories, with C. Kapulkin and L.-Z. Wong, submitted, 2023. <a href="https://arxiv.org/abs/2306.02217">[arXiv]</a>
+1. Cofibration category of digraphs for path homology, with B. Doherty, C. Kapulkin, M. Opie, M. Sarazola, and L.-Z. Wong, Algebr. Comb. (to appear), 2022. <a href="https://arxiv.org/abs/2212.12568">[arXiv]</a>
+1. The Hurewicz theorem for cubical homology, with C. Kapulkin and A. Tonks, Math. Z. 305, 61 (2023), 20 pages. <a href="https://arxiv.org/abs/2207.12500">[arXiv]</a> <a href="https://link.springer.com/article/10.1007/s00209-023-03352-0">[Math.Z.]</a>
+1. Cubical setting for discrete homotopy theory, revisited, with C. Kapulkin, submitted, 2022. <a href="https://arxiv.org/abs/2202.03516">[arXiv]</a>
+1. <em>Homotopy groups of cubical sets</em>, with C. Kapulkin, Expo. Math. 41 (2023) 125518, no. 4, 55 pp. <a href="https://arxiv.org/abs/2202.03511">[arXiv]</a> <a href="https://www.sciencedirect.com/science/article/pii/S0723086923000944">[Expo.Math.]</a>
+1. <em>2-adjoint equivalences in homotopy type theory</em>, with J. Chang, C. Kapulkin, and R. Sandford, Log. Methods Comput. Science 17 (2021), no. 1, Paper No. 3, 9 pp. <a href="https://arxiv.org/abs/2008.12433">[arXiv]</a> <a href="https://lmcs.episciences.org/7124">[LMCS]</a>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
