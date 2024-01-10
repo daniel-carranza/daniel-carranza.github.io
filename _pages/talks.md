@@ -12,6 +12,7 @@ author_profile: true
 - <b>Hurewicz theorem in Discrete Homotopy Theory</b>
     - <a href="https://9mwgeometrytopology.eventos.cimat.mx/home_9atd">9th Mexican Workshop on Applied Geometry and Topology</a> (online) at Centro de Investigación en Matemáticas (CIMAT), November 10-15, 2023
 - <b>Cubical setting for discrete homotopy theory</b>
+	- <a href="https://www.mfo.de/occasion/2350/www_view">Geometric, Algebraic, and Topological Combinatorics </a>, Mathematisches Forschungsinstitut Oberwolfach, December 2023
     - <a href="https://events.reed.edu/event/math_statistics_colloquium_daniel_carranza_johns_hopkins_university_msri?utm_campaign=widget&utm_medium=widget&utm_source=Events+Calendar">Math & Statistics Colloquium</a>, Reed College, April 2023
     - <a href="https://www.unr.edu/math/about-the-department/colloquium">Algebraic & Geometric Topology Seminar</a>, University of Nevada-Reno, April 2023
     - <a href="https://aimath.org/pastworkshops/combhomotop.html">AIM Workshop: Discrete and Combinatorial Homotopy Theory</a>, March 2023
