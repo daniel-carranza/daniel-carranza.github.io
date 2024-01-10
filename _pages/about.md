@@ -10,7 +10,7 @@ redirect_from:
 
 My email address is: dc<!-- random -->arran3<!-- stuff -->@jh.e<!-- to prevent bots -->du
 
-[Here is a link to my CV]({{ site.baseurl }}{% link files/cv_Nov2023.pdf %})
+[Here is a link to my CV]({{ site.baseurl }}{% link files/Carranza_CV.pdf %})
 
 I am a PhD student at Johns Hopkins University interested in homotopy theory, (higher) category theory, and graph theory.
 
