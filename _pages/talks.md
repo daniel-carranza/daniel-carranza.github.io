@@ -3,7 +3,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-- <b>Nonexistence of colimits in naive discrete homotopy theory</b>
+- <b>Nonexistence of colimits in naive discrete homotopy theory</b> [[slides]]({{ site.baseurl }}{% link files/Carranza_ColimitsinDiscreteHomotopyTheory-handout.pdf %})
     - <a href="https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/28921">Joint Mathematics Meeting</a>, San Francisco, California, January 2024
 - <b>Calculus of fractions for quasicategories</b>
     - <a href="https://www2.cms.math.ca/Events/winter23/abs/ssh#dc">Canadian Mathematical Society Winter Meeting</a>, Montreal, Quebec, December 2023
@@ -18,7 +18,8 @@ author_profile: true
     - <a href="https://aimath.org/pastworkshops/combhomotop.html">AIM Workshop: Discrete and Combinatorial Homotopy Theory</a>, March 2023
     - Berkeley Seminar, Topos Institute, November 2022 <a href="https://youtu.be/Ns1NBLMddps">[YouTube]</a>
     - AMS Fall Eastern Sectional Meeting, University of Massachusetts Amherst, October 2022
-    - Ontario Combinatorics Workshop, University of Waterloo, August 2020
+    - Ontario Combinatorics Workshop, University of Waterloo, August 2020 [[slides]]({{ site.baseurl }}{% link files/CubicalGraphs-Carranza-OntarioCombinatorics26.pdf %})
+
 - <b>Formalizing 2-adjoint equivalences in homotopy type theory</b>
     - Western Homotopy Theory seminar, August 2020 <a href="https://youtu.be/BIqhGYoo_PU">[YouTube]</a>
 
