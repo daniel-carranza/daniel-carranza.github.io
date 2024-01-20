@@ -3,8 +3,8 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-- <b>Nonexistence of colimits in naive discrete homotopy theory</b> [[slides]]({{ site.baseurl }}{% link files/Carranza_ColimitsinDiscreteHomotopyTheory-handout.pdf %})
-    - <a href="https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/28921">Joint Mathematics Meeting</a>, San Francisco, California, January 2024
+- <b>Nonexistence of colimits in naive discrete homotopy theory</b> 
+    - <a href="https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/28921">Joint Mathematics Meeting</a>, San Francisco, California, January 2024 [[slides]]({{ site.baseurl }}{% link files/Carranza_ColimitsinDiscreteHomotopyTheory-handout.pdf %})
 - <b>Calculus of fractions for quasicategories</b>
     - <a href="https://www2.cms.math.ca/Events/winter23/abs/ssh#dc">Canadian Mathematical Society Winter Meeting</a>, Montreal, Quebec, December 2023
     - <a href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/cqts/events.html">Geometry, Topology and Physics seminar </a> (online), NYU Abu Dhabi, October 2023
