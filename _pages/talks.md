@@ -6,6 +6,7 @@ author_profile: true
 - <b>Nonexistence of colimits in naive discrete homotopy theory</b> 
     - <a href="https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/28921">Joint Mathematics Meeting</a>, San Francisco, California, January 2024 [[slides]]({{ site.baseurl }}{% link files/Carranza_ColimitsinDiscreteHomotopyTheory-handout.pdf %})
 - <b>Calculus of fractions for quasicategories</b>
+	- <a href="https://meetings.ams.org/math/spring2024se/meetingapp.cgi/Paper/34172">2024 Spring Southeastern Sectional Meeting</a>, Florida State University, March 2024
     - <a href="https://www2.cms.math.ca/Events/winter23/abs/ssh#dc">Canadian Mathematical Society Winter Meeting</a>, Montreal, Quebec, December 2023
     - <a href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/cqts/events.html">Geometry, Topology and Physics seminar </a> (online), NYU Abu Dhabi, October 2023
     - <a href="https://secure.math.ucla.edu/seminars/display.php?&id=837009">Algebraic Topology seminar</a>, UCLA, March 2023
