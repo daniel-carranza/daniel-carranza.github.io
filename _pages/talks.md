@@ -4,6 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 - <b>Nonexistence of colimits in naive discrete homotopy theory</b> 
+	- Topology and Geometry seminar, University of Florida, November 2024
     - <a href="https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/28921">Joint Mathematics Meeting</a>, San Francisco, California, January 2024 [[slides]]({{ site.baseurl }}{% link files/Carranza_ColimitsinDiscreteHomotopyTheory-handout.pdf %})
 - <b>Calculus of fractions for quasicategories</b>
 	- <a href="https://meetings.ams.org/math/spring2024se/meetingapp.cgi/Paper/34172">2024 Spring Southeastern Sectional Meeting</a>, Florida State University, March 2024
