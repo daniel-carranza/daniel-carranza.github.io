@@ -4,8 +4,9 @@ permalink: /talks/
 author_profile: true
 ---
 - <b>The discrete homotopy hypothesis for n-types</b>
+    - <a href = "https://bernoulli.epfl.ch/programs/homology-and-homotopy-in-the-world-of-graphs/">Homology and homotopy in the world of graphs</a>, Bernoulli Center, September 2026
 	- <a href="https://ct2026.com/ct/abstracts/daniel-carranza/">Category Theory 2026</a>, Baltimore, Maryland, July 2026
-	- Discrete homotopy theory event, London, Ontario, April 2026
+	- Discrete homotopy theory event, University of Western Ontario, April 2026
 - <b>Generalizing the Bousfield–Kan formula</b>
 	- <a href="https://www2.cms.math.ca/Events/winter25/abs/top#dc">Canadian Mathematical Society Winter Meeting</a>, Toronto, Ontario, December 2025
 - <b>Weak homotopy types of finite spaces</b>
