@@ -5,8 +5,8 @@ author_profile: true
 ---
 1. <em>Autoformalizing the calculation of π₃(S²)</em>, with C. Liu, E. Riehl, and E. Rijke, preprint, 2026. [[pdf]]({{ site.baseurl }}{% link files/auto-pi3S2-tagged.pdf %}) <a href="https://arxiv.org/abs/2608.23721">[arXiv]</a>
 1. <em>Discrete homotopy hypothesis for n-types</em>, with C. Kapulkin, submitted, 2026. <a href="https://arxiv.org/abs/2602.19293">[arXiv]</a>
-1. <em>Cubical models of ∞-presheaves and the Bousfield–Kan formula</em>, with K. Arakawa and C. Kapulkin, submitted, 2025. <a href="https://arxiv.org/abs/2511.12809">[arXiv]</a>
-1. <em>Derived mapping spaces of ∞-categories</em>, with K. Arakawa and C. Kapulkin, submitted, 2025. <a href="https://arxiv.org/abs/2509.10288">[arXiv]</a>
+1. <em>Cubical models of ∞-presheaves and the Bousfield–Kan formula</em>, with K. Arakawa and C. Kapulkin, Adv. Math. 503 (2026), Paper No. 111217. <a href="https://arxiv.org/abs/2511.12809">[arXiv]</a> <a href="https://www.sciencedirect.com/science/article/pii/S000187082600438X">[Adv.Math.]</a>
+1. <em>Derived mapping spaces of ∞-categories</em>, with K. Arakawa and C. Kapulkin, Algebr. Geom. Topol. (to appear), 2025. <a href="https://arxiv.org/abs/2509.10288">[arXiv]</a>
 1. <em>Categorical foundations of discrete dynamical systems</em>, with C. Kapulkin, N. Kershaw, R. Laubenbacher, and M. Wheeler, submitted, 2025. <a href="https://arxiv.org/abs/2506.05190">[arXiv]</a>
 1. <em>Nonexistence of colimits in naive discrete homotopy theory</em>, with C. Kapulkin and J. Kim, Appl. Categ. Structures 31 (2023), no.5, 41, 6 pp. <a href="https://arxiv.org/abs/2306.02219">[arXiv]</a> <a href="https://link.springer.com/article/10.1007/s10485-023-09746-9">[ACS]</a>
 1. <em>Calculus of Fractions for Quasicategories</em>, with C. Kapulkin and Z. Lindsey, submitted, 2023. <a href="https://arxiv.org/abs/2306.02218">[arXiv]</a>
